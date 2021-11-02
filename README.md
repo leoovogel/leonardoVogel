@@ -22,5 +22,5 @@
    <br>
    <br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=leonardovogel.github.io&theme=github_dark&border_radius=30&border_color=58A6FF">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF">
 </p>
