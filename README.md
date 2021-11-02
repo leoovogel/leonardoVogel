@@ -15,10 +15,12 @@
 <br>
 <p align="center">
    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=leonardovogel&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">
-   <hr>
+   <br>
+   <br>
    <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=leonardovogel&show_icons=true&hide_border=true&theme=github_dark">
    <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovogel&theme=github_dark&hide_border=true">
-   <hr>
+   <br>
+   <br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=leonardovogel.github.io&theme=github_dark&border_radius=30&border_color=58A6FF">
 </p>
