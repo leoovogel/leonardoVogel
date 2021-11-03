@@ -1,5 +1,8 @@
-<h1 align="center">Olá, meu nome é Leonardo Vogel</h1>
-<h3 align="center">Estudante de desenvolvimento Web na Trybe</h3>
+<img margin="0 auto" src="https://user-images.githubusercontent.com/90592913/139983955-64fadfe2-c428-45c6-b8b9-f8afb2421a4c.gif">
+
+##
+
+<h4 align="left">Sou estudante </h3>
 
 ##
 
