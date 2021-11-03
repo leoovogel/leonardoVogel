@@ -50,7 +50,7 @@
 <br>
 <br>
    <a href="https://github.com/leonardoVogel/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF"></a>
-   <a href="https://github.com/leonardoVogel/trybe-exercicios" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF"></a>
+   <a href="https://github.com/leonardoVogel/trybe-exercicios" target=_blank><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovogel&repo=trybe-exercicios&theme=github_dark&border_radius=30&border_color=58A6FF"></a>
 </div>
 <br>
 <hr>
