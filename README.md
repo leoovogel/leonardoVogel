@@ -7,7 +7,7 @@
 <div width="70%">
    <img align="right" width="20%" src="https://user-images.githubusercontent.com/90592913/139999356-70fcc0b0-1ad4-4212-bc20-d1dc4974020d.gif">  
    <h4 align="left">Oi, me chamo Leonardo Vogel, tenho 21 anos e moro no interior do Rio Grande do Sul.</h4>
-   <p>Atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> e faço parte da turma XP (você pode          acompanhar o meu avanço através do meu repositório <a href="https://github.com/leonardoVogel/trybe-exercicios" target="_blank">trybe-exercicios</a>, onde eu vou atualizando com alguns exercícios de cada bloco).
+   <p>Atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> e faço parte da turma <a href="https://www.xpinc.com/" target="_blank">XP Inc.<a/> (você pode          acompanhar o meu avanço através do meu repositório <a href="https://github.com/leonardoVogel/trybe-exercicios" target="_blank">trybe-exercicios</a>, onde eu vou atualizando com alguns exercícios de cada bloco).
    <p>Estou em transição de carreira, saíndo da área contábil/fiscal para mergulhar fundo na programação</p>
 
 </div>
