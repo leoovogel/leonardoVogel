@@ -59,5 +59,5 @@
 <details close>
 <summary>More.. (em construção)</summary>
 
-<p>Em construção</p>
+<p>Em construção..</p>
 </details>  
