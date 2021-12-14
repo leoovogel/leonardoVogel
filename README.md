@@ -1,6 +1,4 @@
-<div align=center>
-<img src="https://user-images.githubusercontent.com/90592913/139983955-64fadfe2-c428-45c6-b8b9-f8afb2421a4c.gif">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231F6FEB&center=true&vCenter=true&lines=Ol%C3%A1%2C+seja+bem+vindo(a)!;Desenvolvimento+Web+-+Trybe)](https://git.io/typing-svg)
    
 ##
 
