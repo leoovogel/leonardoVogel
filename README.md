@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%231F6FEB&size=40&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo(a)!;Desenvolvimento+Web+-+Trybe)](https://git.io/typing-svg)
-   
-##
-
 <div width="70%">
    <img align="right" width="20%" src="https://user-images.githubusercontent.com/90592913/139999356-70fcc0b0-1ad4-4212-bc20-d1dc4974020d.gif">  
    <h4 align="left">Oi, me chamo Leonardo Vogel, tenho 22 anos e moro no interior do Rio Grande do Sul.</h4>
