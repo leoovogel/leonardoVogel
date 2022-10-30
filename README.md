@@ -1,7 +1,7 @@
 <div width="70%"> 
-   <h4 align="left">Oi, me chamo Leonardo Vogel, tenho 22 anos e moro no interior do Rio Grande do Sul.</h4>
-   <p>Atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> e faço parte da turma <a href="https://www.xpinc.com/" target="_blank">XP Inc.<a/> (você pode          acompanhar o meu avanço através do meu repositório <a href="https://github.com/leonardoVogel/trybe-exercicios" target="_blank">trybe-exercicios</a>, onde eu vou atualizando com alguns exercícios de cada bloco).
-   <p>Estou em transição de carreira, saíndo da área contábil/fiscal para mergulhar fundo na programação</p>
+   <h4 align="left">Olá!</h4>
+   <p>Meu nome é Leonardo Vogel, tenho 22 anos, moro atualmente no Rio Grande do Sul - Brasil.</p>
+   <p>Atualmente trabalho como desenvolvedor backend na <a href="https://www.xpinc.com/" target="_blank">XP Inc.<a/>, trabalhando principalmente com .NET, SQL Server</p>
 
 </div>
    <hr>
