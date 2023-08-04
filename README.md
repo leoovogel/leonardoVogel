@@ -1,6 +1,6 @@
 <div width="70%"> 
    <h4 align="left">Olá!</h4>
-   <p>Meu nome é Leonardo Vogel, tenho 23 anos, moro atualmente no Rio Grande do Sul - Brasil.</p>
+   <p>Meu nome é Leonardo Vogel, tenho 23 anos, moro no Rio Grande do Sul - Brasil.</p>
    <p>Atualmente trabalho como desenvolvedor backend na <a href="https://www.xpinc.com/" target="_blank">XP Inc.<a/>, trabalhando principalmente com .NET, SQL Server</p>
 
 </div>
